@@ -1,0 +1,6 @@
+C:\Users\agus\Documents\Visual Studio 2015\Projects\ConsoleApplication1\threading\bin\Debug\threading.exe.config
+C:\Users\agus\Documents\Visual Studio 2015\Projects\ConsoleApplication1\threading\bin\Debug\threading.exe
+C:\Users\agus\Documents\Visual Studio 2015\Projects\ConsoleApplication1\threading\bin\Debug\threading.pdb
+C:\Users\agus\Documents\Visual Studio 2015\Projects\ConsoleApplication1\threading\obj\Debug\threading.exe
+C:\Users\agus\Documents\Visual Studio 2015\Projects\ConsoleApplication1\threading\obj\Debug\threading.pdb
+C:\Users\agus\Documents\Visual Studio 2015\Projects\ConsoleApplication1\threading\obj\Debug\threading.csprojResolveAssemblyReference.cache
